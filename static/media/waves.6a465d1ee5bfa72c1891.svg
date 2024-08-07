@@ -1,0 +1,25 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1436 811" width="1912" height="1080">
+	<title>50q-ai</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m-4 815h1444v-820h-1444z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="m-2-3h1440v816h-1440z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { opacity: .1;fill: #ffffff } 
+		.s1 { opacity: .2;fill: #ffffff } 
+	</style>
+	<g id="Layer 1">
+		<g id="&lt;Clip Group&gt;" clip-path="url(#cp1)">
+			<g id="&lt;Clip Group&gt;" clip-path="url(#cp2)">
+				<path id="&lt;Path&gt;" class="s0" d="m-2 150.5c177.8 98.8 135.6 286.3 199.9 384.7 87.2 133.3 316.3 86.1 415.9 277.8h-615.8z"/>
+				<path id="&lt;Path&gt;" class="s0" d="m-2 553.9c69.2 21.4 134.3 61.4 178.9 116 118 144.4 550-119.9 882.6 143.1h-1061.5z"/>
+				<path id="&lt;Path&gt;" class="s1" d="m1438 659.5c-177.8-98.8-135.6-286.3-199.9-384.7-87.2-133.3-316.3-86.1-415.9-277.8h615.8z"/>
+				<path id="&lt;Path&gt;" class="s1" d="m1438 256.1c-69.2-21.4-134.3-61.4-178.9-116-118-144.4-550 119.9-882.6-143.1h1061.5z"/>
+			</g>
+		</g>
+	</g>
+</svg>
