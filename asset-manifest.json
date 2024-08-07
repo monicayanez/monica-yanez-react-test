@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/monica-yanez-react-test/static/css/main.b6b7c7c3.css",
-    "main.js": "/monica-yanez-react-test/static/js/main.d329f943.js",
-    "static/media/404.svg": "/monica-yanez-react-test/static/media/404.df6ae13910eba3ca863c0e60e7633ccc.svg",
-    "static/media/waves.svg": "/monica-yanez-react-test/static/media/waves.6a465d1ee5bfa72c1891.svg",
-    "index.html": "/monica-yanez-react-test/index.html",
-    "main.b6b7c7c3.css.map": "/monica-yanez-react-test/static/css/main.b6b7c7c3.css.map",
-    "main.d329f943.js.map": "/monica-yanez-react-test/static/js/main.d329f943.js.map"
+    "main.css": "/monica-yanez-react-test/public/static/css/main.8446416a.css",
+    "main.js": "/monica-yanez-react-test/public/static/js/main.879ba74b.js",
+    "static/media/404.svg": "/monica-yanez-react-test/public/static/media/404.df6ae13910eba3ca863c0e60e7633ccc.svg",
+    "index.html": "/monica-yanez-react-test/public/index.html",
+    "static/media/waves.svg": "/monica-yanez-react-test/public/static/media/waves.6a465d1ee5bfa72c1891.svg",
+    "main.8446416a.css.map": "/monica-yanez-react-test/public/static/css/main.8446416a.css.map",
+    "main.879ba74b.js.map": "/monica-yanez-react-test/public/static/js/main.879ba74b.js.map"
   },
   "entrypoints": [
-    "static/css/main.b6b7c7c3.css",
-    "static/js/main.d329f943.js"
+    "static/css/main.8446416a.css",
+    "static/js/main.879ba74b.js"
   ]
 }
