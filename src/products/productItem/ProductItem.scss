@@ -1,0 +1,58 @@
+@import "../../styles/color";
+
+.productItemContainer {
+  padding: 5vh 10vw 0;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 5vh;
+  h1{
+    margin: 1vh 0;
+  }
+
+  .productItemHeader {
+    display: flex;
+    justify-content: space-between;
+    width: 49vw;
+
+    button{
+      align-self: flex-end;
+    }
+  }
+
+  .productItem {
+    display: flex;
+    border: 2px solid $secondary;
+    border-radius: 1em;
+    min-width: fit-content;
+    justify-content: center;
+    align-items: center;
+    padding: 2vh 2vw;
+    background-color: $sand;
+    gap: 2vw;
+    min-height: 45vh;
+
+    img {
+      width: auto;
+      max-height: 40vh;
+      max-width: 20vw;
+      height: auto;
+    }
+
+    .description {
+      display: flex;
+      flex-direction: column;
+      width: 23vw;
+
+      h2 {
+        line-height: 1.2;
+        font-size: 1.4em;
+      }
+      p {
+        margin: 1vh 0;
+      }
+    }
+
+  }
+}

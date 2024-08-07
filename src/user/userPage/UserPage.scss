@@ -1,0 +1,25 @@
+@import "../../styles/color";
+
+.userPageContainer{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-top: 8vh;
+  align-items: center;
+  gap: 2vh;
+   > div{
+     display: flex;
+     align-items: center;
+    gap: 0.5em;
+  }
+  .successMessage {
+    color: $sand;
+    margin-top: 2vh;
+  }
+
+  .errorMessage {
+    color: $brown;
+    margin-top: 2vh;
+  }
+
+}

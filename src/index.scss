@@ -1,0 +1,53 @@
+@import './styles/color';
+
+* {
+  box-sizing: border-box;
+  border: 0;
+  margin: 0;
+  padding: 0;
+}
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  color: $primary;
+  background: url("./resources/images/waves.svg"), $lightOrange;
+  background-blend-mode: overlay;
+}
+a{
+  color: $primary;
+}
+button{
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  background-color: $sand;
+  border-radius: 0.5em;
+  padding: 0.3em 1.5em;
+  border: 2px solid $secondary;
+  align-self: center;
+  cursor: pointer;
+}
+button:hover{
+  background-color: $secondary;
+  border: 2px solid $secondary;
+  color: $sand;
+}
+button:disabled {
+  border: 2px solid #777777;
+  color: #777777;
+  cursor: initial;
+  background-color: $sand;
+}
+p{
+  font-size: 14px;
+}
+input, textarea {
+  font-size: 14px;
+  font-family: "Poppins", sans-serif;
+  padding: 0.2em 1em;
+  border-radius: 0.5em;
+  outline: none;
+  border: 1px solid $lightOrange;
+  background-color: $sand;
+  color: $primary;
+  min-width: 15em;
+}
