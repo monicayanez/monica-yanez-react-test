@@ -2,7 +2,7 @@
   "name": "monica-yanez-react-test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://monicayanez.github.io/monica-yanez-react-test/index.html",
+  "homepage": "https://monicayanez.github.io/monica-yanez-react-test",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
